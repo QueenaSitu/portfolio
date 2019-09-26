@@ -27,8 +27,7 @@ body {
   	position:fixed;
   	height: 100px;
   	top: 0;
-  	width: 89%;
-
+  	width: 80%;
 
 }
 
@@ -38,6 +37,7 @@ body {
 ul {
 	display: flex;
 	justify-content: space-around;
+	margin-right: 30px;
 }
 
 li {
