@@ -1,0 +1,190 @@
+
+body {
+	background-color: white;
+	font-family: 'Maven Pro', sans-serif;
+	margin: auto;
+
+}
+
+.navbar {
+  margin-left: 300px;
+}
+
+/*.nav_container {
+  margin-left: 300px;
+  padding-right: 40px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  background-color: #c8d4d5;
+
+}*/
+
+.nav_container {
+	margin-left: 300px;
+  	background-color: #c8d4d5;
+  	position:fixed;
+  	height: 100px;
+  	top: 0;
+  	width:89%;
+
+
+}
+
+
+
+
+ul {
+	display: flex;
+	justify-content: space-around;
+}
+
+li {
+  list-style: none;
+  padding: 20px;
+  font-size: 27px;
+  display: inline-flex;
+ 
+
+}
+
+a {
+	text-decoration: none;
+	color: #5e7d99;
+
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+.vimeo {
+	text-decoration: underline;
+	color: blue;
+
+}
+
+h1 {
+	padding-left: 80px;
+	color: #556871;
+}
+
+.p_img {
+	padding: 30px;
+	width: 240px;
+	border-radius: 50%;
+}
+
+.p_bio_container {
+	position: fixed;
+	top: 0;
+	height: 100%;
+	width: 300px;
+	background-color: #418084;
+}
+
+.bio_text {
+	/*padding-top: 10px;*/
+	padding-left: 30px;
+	padding-right: 20px;
+	font-size: 16px;
+	color: #eeeeee;
+
+}
+
+.bio_links {
+	display: flex;
+	align-content: center;
+	justify-content: center;
+	font-size: 16px;
+	color: white;
+	padding: 5px;
+
+}
+
+.content_container {
+	margin-top: 120px;
+	margin-left: 300px;
+	margin-right: 40px;
+	margin-bottom: 40px;
+	padding: 10px;
+
+}
+
+.content {
+	margin-left: 80px;
+	margin-right: 80px;
+	font-size: 22px;
+	color:#556871
+}
+
+.content_gif {
+	float: right;
+	padding-top: 0;
+	padding-left: 20px;
+	border-radius: 0;
+	width: 700px;
+}
+
+.about_img {
+	float: right;
+	padding-top: 10px;
+	padding-left: 80px;
+	border-radius: 0;
+	width: 1200px;
+}
+
+.gallery {
+	margin-left: 370px;
+	margin-right: 40px;
+}
+
+.gallery_img {
+	width: 500px; 
+	height: 300px;
+	padding: 10px;
+}
+
+.prof_img {
+	padding-right: 20px;
+	padding-left: 80px;
+	border-radius: 0;
+	width: 1920px;
+}
+
+#thereisnothingforyoutoseehere {
+
+}
+
+#drawingtool {
+
+}
+
+#beachballs {
+
+}
+
+#arrays {
+
+}
+
+#foodphilanthropy {
+
+}
+
+#solitarytree {
+
+}
+
+#feedthebeast {
+
+}
+
+#babysteps {
+
+}
+
+#endlessnightmares {
+
+}
+
+#ego
